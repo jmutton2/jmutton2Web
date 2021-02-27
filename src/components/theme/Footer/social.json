@@ -8,19 +8,13 @@
   {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/jmutton2",
     "icon": "/icons/github.svg"
   },
   {
     "id": 2,
     "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
+    "link": "https://stackoverflow.com/users/15296691/jmutton2",
     "icon": "/icons/stackoverflow.svg"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/icons/twitter.svg"
   }
 ]

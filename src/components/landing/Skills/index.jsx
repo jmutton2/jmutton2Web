@@ -11,17 +11,16 @@ export const Skills = () => {
   return (
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
-        <Thumbnail>
+        {/* <Thumbnail>
           <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
-        </Thumbnail>
+        </Thumbnail> */}
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            Aspring software engineer ;)
           </p>
           <Button as={AnchorLink} href="#contact">
-            Hire me
+            Contact Me
           </Button>
         </Details>
       </SkillsWrapper>
