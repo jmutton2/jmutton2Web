@@ -1,6 +1,5 @@
 module.exports = {
   defaultTitle: 'Jacob Mutton',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Jacob Mutton',
   url: 'https://portfolio.smakosh.com',
   legalName: 'Jacob Mutton',
